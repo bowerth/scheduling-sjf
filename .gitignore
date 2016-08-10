@@ -3,4 +3,5 @@
 target/
 bin/
 dependency-reduced-pom.xml
-
+.cache-main
+.settings/
